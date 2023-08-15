@@ -1,4 +1,4 @@
-## Hi, my name is Weronika Obała. 
+## Hi, my name is Weronika Obała
 I am currently studying Mathematics at the Wrocław University of Technology. I graduated with a bachelor's degree in Mathematics and Statistics.
 ## Skills
 - R
